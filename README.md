@@ -2,7 +2,7 @@
 
 #### By _**Carlos Urquiza**_
 
-#### _._
+#### _This course simulates working on an existing code base, rather than a greenfield project..._
 
 ## Technologies Used
 
